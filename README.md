@@ -1,2 +1,2 @@
 # maximo-divisor-comum
-Calcula o máximo divisor comum, a partir dos números informados
+Calcula o máximo é minímo divisor comum, a partir dos números informados
